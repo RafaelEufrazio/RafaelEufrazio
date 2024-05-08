@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://camo.githubusercontent.com/cc2c1506f11495dc9076ce6f389d19bbe3ab4ad0d755c9de8be14e17e7760660/68747470733a2f2f6361742d676966732e6379636c69632e617070
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
